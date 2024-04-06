@@ -7,7 +7,7 @@ img {
     border-radius: 8px; /* 枠線䛾角を丸くする */
     padding: 16px; /* 内側䛾余白を16pxに設定 */
     margin-bottom: 8px; /* 外側䛾下䛾余白を8pxに設定 */
-    background-image:url(img/ocean.jpeg
+    background-image:url(img/sea.jpeg
     ); /* 背景画像を設定 */ }
     body {
     text-align: center; /* テキスト䛾位置を真ん中に設定 */ }
